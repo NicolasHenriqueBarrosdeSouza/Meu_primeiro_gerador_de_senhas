@@ -1,0 +1,17 @@
+{
+    "letras" :
+    [
+        "abcdefghijklmnopqrstuvwxyz",
+        "ABCDEFGHIJKLMNIOPQRSTUVWXYZ",
+        "1234567890",
+        "!@$%&#*(){[]}?<>:~^=+_-;"
+    ],
+
+    "mensagens" :
+    [
+        "ERRO : Não expecificou nenhum tipo",
+        "ERRO : Numero de caracteres insulficiente",
+        "A sua nova senha é :"
+    ]
+
+}
