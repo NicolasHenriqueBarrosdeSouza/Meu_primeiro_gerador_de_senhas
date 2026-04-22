@@ -2,7 +2,7 @@ import { gera } from "./classe.js";
 
 
 
-async function gerar_senha(qtd_caracteres,min,mai,num,exp) { //let dados = require('./dados.json') só que para web
+async function gerar_senha(qtd_caracteres,min,mai,num,exp) {
 
     let res = await fetch('dados.json')
 
